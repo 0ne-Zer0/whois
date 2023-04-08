@@ -22,5 +22,6 @@ Esse código em Python faz uma consulta ao servidor WHOIS do Registro.br para ob
 
 ## Observações
 
-O servidor WHOIS do Registro.br é utilizado para domínios terminados em .br 
+O servidor WHOIS do Registro.br é utilizado para domínios terminados em .br
+
 Para domínios internacionais, é necessário utilizar o servidor WHOIS do país correspondente.
