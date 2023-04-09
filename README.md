@@ -6,19 +6,19 @@ Esse código em Python faz uma consulta ao servidor WHOIS do Registro.br para ob
 
 - Abra o terminal ou prompt de comando.
 
-- Clone o repositório em sua máquina local: git clone
+- Clone o repositório em sua máquina local: __"git clone <URL.git>"__
 
-- Navegue até o diretório onde o arquivo whois.py se encontra: cd seu-repositorio.
+- Navegue até o diretório onde o arquivo __"whois.py"__ se encontra: __"cd <seu-repositorio>"__.
 
-- Digite python whois.py dominio.com.br para fazer a consulta ao servidor WHOIS. Substitua "dominio.com.br" pelo domínio desejado.
+- Digite __"python whois.py <dominio.com.br>"__ para fazer a consulta ao servidor WHOIS. Substitua __"dominio.com.br"__ pelo domínio desejado.
 
 - Aguarde a resposta do servidor.
 
 ## Tecnologias utilizadas
 
-- Python 3.x
+- __Python 3.x__
 
-- Biblioteca socket
+- __Biblioteca socket__
 
 ## Observações
 
